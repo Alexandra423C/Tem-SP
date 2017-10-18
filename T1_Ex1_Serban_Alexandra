@@ -1,7 +1,1 @@
 # Tem-SP
-echo "# Tem-SP" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Alexandra423C/Tem-SP.git
-git push -u origin master
